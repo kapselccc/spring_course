@@ -75,7 +75,6 @@ private Set<Author> authors = new HashSet<>();
                 "id=" + id +
                 ", title='" + title + '\'' +
                 ", isbn='" + isbn + '\'' +
-                ", authors=" + authors +
                 '}';
     }
 
